@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hitoritabi321
 - 👀 I’m interested in python
-- 🌱 I’m currently learning python from 75years old
+- 🌱 I’m currently learning python at age og 75years old
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
